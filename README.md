@@ -2,7 +2,7 @@ Esses são os meus htmls feitos durante o curso básico de html da fundação br
 
 O curso foi dividido em 9 módulos, sendo eles:
 
-Módulo 1 – Introdução (World Wide Web, O que é home page, Os principais protocolos e suas funções, URL - sistema de endereçamento)
+Módulo 1 – Introdução (World Wide Web, O que é home page, Os principais protocolos e suas funções, URL - sistema de endereçamento)<br>
 Módulo 2 - HTML e a web (As características e benefícios do HTML, A função do HTML na web)
 Módulo 3 - Criando um documento HTML (head, body, TAG's, < html >, .html)
 Módulo 4 - Formatando um documento HTML (negrito, itálico, sublinhado, alinhamento de texto, face, size, color, P, BR, comentários, Subtítulos, HR, PRE)
